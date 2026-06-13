@@ -1,0 +1,3 @@
+display_name: Review Agent Workflow
+short_description: Manual PR and diff review workflow with GO gates.
+default_prompt: Use review-agent-workflow. Phase 0.
