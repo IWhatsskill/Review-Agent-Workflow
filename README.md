@@ -9,6 +9,8 @@ Use it when you want findings-first review output and clear operator control ove
 <p align="center">
   <a href="SKILL.md"><strong>Skill file</strong></a>
   &nbsp;|&nbsp;
+  <a href="docs/INSTALL.md"><strong>Install</strong></a>
+  &nbsp;|&nbsp;
   <a href="docs/WORKFLOW.md"><strong>Review guide</strong></a>
   &nbsp;|&nbsp;
   <a href="references/01-output-format.md"><strong>Output format</strong></a>
