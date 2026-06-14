@@ -2,7 +2,7 @@
 
 **Manual review-only workflow for pull request and diff review agents**
 
-This is a compact Codex skill for agents that should inspect PRs, diffs, CI signals, or leak risks without automatically fixing, commenting, approving, or requesting changes.
+This is a compact workflow skill for agents that should inspect PRs, diffs, CI signals, or leak risks without automatically fixing, commenting, approving, or requesting changes.
 
 Use it when you want findings-first review output and clear operator control over anything that would write back to a repo or tracker.
 
@@ -30,7 +30,7 @@ Use it when you want findings-first review output and clear operator control ove
 
 ## Quick Start
 
-Ask Codex to use the skill by name:
+Ask your OpenClaw agent to use the skill by name:
 
 ```text
 Use review-agent-workflow. Phase 0.
